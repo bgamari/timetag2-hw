@@ -1,0 +1,105 @@
+# This is the template file for creating symbols with tragesym
+# every line starting with '#' is a comment line.
+# save it as text file with tab separated cells and start tragesym
+
+[options]
+# wordswap swaps labels if the pin is on the right side an looks like this:
+# "PB1 (CLK)". That's useful for micro controller port labels
+# rotate_labels rotates the pintext of top and bottom pins
+# this is useful for large symbols like FPGAs with more than 100 pins
+# sort_labels will sort the pins by it's labels
+# useful for address ports, busses, ...
+wordswap	yes
+rotate_labels	yes
+sort_labels	no
+generate_pinseq	yes
+sym_width	11000
+pinwidthvertical	250
+pinwidthhorizontal	250
+
+[geda_attr]
+# name will be printed in the top of the symbol
+# if you have a device with slots, you'll have to use slot= and slotdef=
+# use comment= if there are special information you want to add
+version	20060113 1
+name	FT2232D
+device	FT2232D
+refdes	U?
+footprint       qfp48
+description	Dual USB to serial UART/FIFO
+documentation	http://www.xilinx.com/
+author	Mark Haun <haunma(AT)keteu.org>
+numslots	0
+dist-license
+use-license
+#slot	1
+#slotdef	1:
+#slotdef	2:
+#slotdef	3:
+#slotdef	4:
+#comment
+#comment
+#comment
+
+[pins]
+# tabseparated list of pin descriptions
+#
+# pinnr is the physical number of the pin
+# seq is the pinseq= attribute, leave it blank if it doesn't matter
+# type can be (in, out, io, oc, oe, pas, tp, tri, clk, pwr)
+# style can be (line,dot,clk,dotclk,none). none if only want to add a net
+# posit. can be (l,r,t,b) or empty for nets
+# net specifies the name of the net. Vcc or GND for example.
+# label represents the pinlabel.
+#	negation lines can be added with "\_" example: \_enable\_
+#	if you want to write a "\" use "\\" as escape sequence
+#
+#pinnr	seq	type	style	posit.	net	label
+1		out	line	l		EESX
+2		io	line	l		EEDATA
+3		pwr	line	l		VCC
+4		in	line	l		\_RESET\_
+5		out	line	l		\_RSTOUT\_
+6		pwr	line	l		3V3OUT
+7		io	line	l		USBDP
+8		io	line	l		USBDM
+9		pwr	line	l		GND
+10		in	line	l		SI/WUA
+11		io	line	l		ACBUS3
+12		io	line	l		ACBUS2
+13		io	line	b		ACBUS1
+14		pwr	line	b		VCCIOA
+15		io	line	b		ACBUS0
+16		io	line	b		ADBUS7
+17		io	line	b		ADBUS6
+18		pwr	line	b		GND
+19		io	line	b		ADBUS5
+20		io	line	b		ADBUS4
+21		io	line	b		ADBUS3
+22		io	line	b		ADBUS2
+23		io	line	b		ADBUS1
+24		io	line	b		ADBUS0
+25		pwr	line	r		GND
+26		in	line	r		SI/WUB
+27		io	line	r		BCBUS3
+28		io	line	r		BCBUS2
+29		io	line	r		BCBUS1
+30		io	line	r		BCBUS0
+31		pwr	line	r		VCCIOB
+32		io	line	r		BDBUS7
+33		io	line	r		BDBUS6
+34		pwr	line	r		GND
+35		io	line	r		BDBUS5
+36		io	line	r		BDBUS4
+37		io	line	t		BDBUS3
+38		io	line	t		BDBUS2
+39		io	line	t		BDBUS1
+40		io	line	t		BDBUS0
+41		in	line	t		\_PWREN\_
+42		pwr	line	t		VCC
+43		clk	line	t		XTIN
+44		clk	line	t		XTOUT
+45		pwr	line	t		AGND
+46		pwr	line	t		AVCC
+47		in	line	t		TEST
+48		io	line	t		EECS
