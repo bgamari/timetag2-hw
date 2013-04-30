@@ -28,7 +28,7 @@ refdes	U?
 footprint       qfp48
 description	Dual USB to serial UART/FIFO
 documentation	http://www.xilinx.com/
-author	Mark Haun <haunma(AT)keteu.org>
+author	Ben Gamari <bgamari@gmail.com>
 numslots	0
 dist-license
 use-license
