@@ -3,7 +3,7 @@ C 40000 40000 0 0 0 title-B.sym
 C 44850 46950 1 0 0 lhm7220.sym
 {
 T 46650 48100 5 10 1 1 0 6 1
-refdes=U?
+refdes=U1
 T 47250 47925 5 10 0 0 0 0 1
 device=LHM7220
 }
@@ -12,7 +12,7 @@ C 42900 47350 1 0 0 BNC-1.sym
 T 43250 48000 5 10 0 0 0 0 1
 device=BNC
 T 42900 48150 5 10 1 1 0 0 1
-refdes=CONN?
+refdes=CONN1
 }
 N 43400 47850 44950 47850 4
 C 42900 47050 1 0 0 gnd-1.sym
@@ -21,7 +21,7 @@ C 44100 46950 1 90 0 resistor-1.sym
 T 43700 47250 5 10 0 0 90 0 1
 device=RESISTOR
 T 43800 47150 5 10 1 1 90 0 1
-refdes=R?
+refdes=R1
 T 43800 47450 5 10 1 1 90 0 1
 value=51
 }
@@ -54,7 +54,7 @@ C 44650 45350 1 90 0 resistor-1.sym
 T 44250 45650 5 10 0 0 90 0 1
 device=RESISTOR
 T 44350 45550 5 10 1 1 90 0 1
-refdes=R?
+refdes=R2
 T 44350 45850 5 10 1 1 90 0 1
 value=33
 }
@@ -63,7 +63,7 @@ C 44650 44350 1 90 0 resistor-1.sym
 T 44250 44650 5 10 0 0 90 0 1
 device=RESISTOR
 T 44350 44550 5 10 1 1 90 0 1
-refdes=R?
+refdes=R3
 T 44350 44850 5 10 1 1 90 0 1
 value=510
 }
@@ -78,7 +78,7 @@ C 45200 45350 1 90 0 capacitor-1.sym
 T 44500 45550 5 10 0 0 90 0 1
 device=CAPACITOR
 T 45200 45900 5 10 1 1 90 0 1
-refdes=C?
+refdes=C1
 T 44300 45550 5 10 0 0 90 0 1
 symversion=0.1
 }
