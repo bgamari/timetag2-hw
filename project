@@ -1,1 +1,3 @@
-
+schematics timetag2-hw.sch
+output-name timetag2-hw
+skip-m4
