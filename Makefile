@@ -1,4 +1,4 @@
-name=myproject
+name=timetag2-hw
 
 %.sym : %.tsym
 	tragesym $< $@
