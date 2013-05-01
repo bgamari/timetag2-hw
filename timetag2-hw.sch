@@ -110,7 +110,7 @@ refdes=R11
 T 52800 37100 5 10 1 1 90 0 1
 value=470
 T 53100 36600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 52800 37500 1 0 0 5V-plus-1.sym
 N 53000 36300 53000 36600 4
@@ -123,7 +123,7 @@ refdes=C12
 T 47950 33750 5 10 0 0 90 0 1
 symversion=0.1
 T 48850 33550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 49650 34500 48650 34500 4
 N 48650 34500 48650 34450 4
@@ -138,7 +138,7 @@ refdes=C16
 T 54150 35900 5 10 0 0 180 0 1
 symversion=0.1
 T 54350 36800 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 53450 36600 53000 36600 4
 N 49650 34250 49150 34250 4
@@ -171,7 +171,7 @@ refdes=R8
 T 52350 39150 5 10 1 1 0 0 1
 value=470
 T 51850 39300 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 52650 31550 1 270 1 resistor-1.sym
 {
@@ -182,7 +182,7 @@ refdes=R12
 T 52650 32000 5 10 1 1 90 6 1
 value=68
 T 52650 31550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 52900 31550 1 270 1 resistor-1.sym
 {
@@ -193,7 +193,7 @@ refdes=R13
 T 52900 32000 5 10 1 1 90 6 1
 value=68
 T 52900 31550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 53150 31550 1 270 1 resistor-1.sym
 {
@@ -204,7 +204,7 @@ refdes=R14
 T 53150 32000 5 10 1 1 90 6 1
 value=68
 T 53150 31550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 53400 31550 1 270 1 resistor-1.sym
 {
@@ -215,7 +215,7 @@ refdes=R15
 T 53400 32000 5 10 1 1 90 6 1
 value=68
 T 53400 31550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 48400 34200 1 90 0 capacitor-1.sym
 {
@@ -226,7 +226,7 @@ refdes=C11
 T 47500 34400 5 10 0 0 90 0 1
 symversion=0.1
 T 48400 34200 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 49650 34800 1 90 0 5V-plus-1.sym
 N 48100 35250 49650 35250 4
@@ -257,7 +257,7 @@ refdes=R10
 T 48950 34700 5 10 1 1 180 0 1
 value=1.5k
 T 49650 34850 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 48750 34750 48350 34750 4
 {
@@ -353,7 +353,7 @@ refdes=R4
 T 62100 50350 5 10 1 1 180 6 1
 value=220
 T 61600 50650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 61600 50550 61400 50550 4
 {
@@ -382,7 +382,7 @@ refdes=R5
 T 62100 49800 5 10 1 1 180 6 1
 value=220
 T 61600 50100 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 61600 50000 61400 50000 4
 {
@@ -411,7 +411,7 @@ refdes=R7
 T 62100 49250 5 10 1 1 180 6 1
 value=220
 T 61600 49550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 61600 49450 61400 49450 4
 {
@@ -440,7 +440,7 @@ refdes=R9
 T 62100 48700 5 10 1 1 180 6 1
 value=220
 T 61600 49000 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 61600 48900 61400 48900 4
 {
@@ -469,7 +469,7 @@ refdes=R1
 T 56500 48400 5 10 1 1 0 0 1
 value=220
 T 56000 48600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 56000 47550 1 180 1 resistor-1.sym
 {
@@ -480,7 +480,7 @@ refdes=R3
 T 56500 47250 5 10 1 1 180 6 1
 value=220
 T 56000 47550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 56950 48500 1 0 0 led-1.sym
 {
@@ -613,7 +613,7 @@ refdes=R6
 T 52350 39800 5 10 1 1 0 0 1
 value=470
 T 51850 39600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 51850 40000 53350 40000 4
 {
@@ -777,7 +777,7 @@ symversion=0.1
 T 49450 37050 5 10 1 1 90 0 1
 value=27p
 T 49750 37000 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 49100 36700 1 0 0 gnd-1.sym
 N 48850 37000 49550 37000 4
@@ -802,7 +802,7 @@ symversion=0.1
 T 48750 37050 5 10 1 1 90 0 1
 value=27p
 T 49050 37000 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 63300 30200 1 0 0 txb0108.sym
 {
@@ -941,7 +941,7 @@ symversion=0.1
 T 50350 45650 5 10 1 1 90 0 1
 value=100n
 T 50650 45700 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 50350 45400 1 0 0 gnd-1.sym
 C 50100 45700 1 90 0 capacitor-1.sym
@@ -955,7 +955,7 @@ symversion=0.1
 T 49800 45750 5 10 1 1 90 0 1
 value=10u
 T 50100 45700 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 49800 45400 1 0 0 gnd-1.sym
 N 50450 46600 49900 46600 4
@@ -970,7 +970,7 @@ symversion=0.1
 T 52400 46150 5 10 1 1 90 0 1
 value=10u
 T 52700 46100 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 52950 45800 1 0 0 gnd-1.sym
 C 53250 46100 1 90 0 capacitor-1.sym
@@ -984,7 +984,7 @@ symversion=0.1
 T 52950 46050 5 10 1 1 90 0 1
 value=100n
 T 53250 46100 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 52400 45800 1 0 0 gnd-1.sym
 N 53250 47000 52450 47000 4
@@ -997,7 +997,7 @@ refdes=R2
 T 56500 47850 5 10 1 1 180 6 1
 value=220
 T 56000 48150 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 56950 48050 56900 48050 4
 C 58150 47950 1 90 0 gnd-1.sym
@@ -1036,7 +1036,7 @@ symversion=0.1
 T 50350 48150 5 10 1 1 90 0 1
 value=100n
 T 50650 48200 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 50350 47900 1 0 0 gnd-1.sym
 C 50100 48200 1 90 0 capacitor-1.sym
@@ -1050,7 +1050,7 @@ symversion=0.1
 T 49800 48250 5 10 1 1 90 0 1
 value=10u
 T 50100 48200 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 49800 47900 1 0 0 gnd-1.sym
 N 50450 49100 49900 49100 4
@@ -1065,7 +1065,7 @@ symversion=0.1
 T 52400 48650 5 10 1 1 90 0 1
 value=10u
 T 52700 48600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 52950 48300 1 0 0 gnd-1.sym
 C 53250 48600 1 90 0 capacitor-1.sym
@@ -1079,7 +1079,7 @@ symversion=0.1
 T 52950 48550 5 10 1 1 90 0 1
 value=100n
 T 53250 48600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 52400 48300 1 0 0 gnd-1.sym
 N 53250 49500 52450 49500 4
@@ -1095,7 +1095,7 @@ symversion=0.1
 T 75950 49700 5 10 1 1 90 0 1
 value=10u
 T 76250 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 76050 50550 79550 50550 4
 N 76050 49650 79550 49650 4
@@ -1111,7 +1111,7 @@ symversion=0.1
 T 76450 49700 5 10 1 1 90 0 1
 value=10u
 T 76750 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 77250 49650 1 90 0 capacitor-1.sym
 {
@@ -1124,7 +1124,7 @@ symversion=0.1
 T 76950 49700 5 10 1 1 90 0 1
 value=10u
 T 77250 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 77750 49650 1 90 0 capacitor-1.sym
 {
@@ -1137,7 +1137,7 @@ symversion=0.1
 T 77450 49700 5 10 1 1 90 0 1
 value=1u
 T 77750 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 78250 49650 1 90 0 capacitor-1.sym
 {
@@ -1150,7 +1150,7 @@ symversion=0.1
 T 77950 49700 5 10 1 1 90 0 1
 value=1u
 T 78250 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 78750 49650 1 90 0 capacitor-1.sym
 {
@@ -1163,7 +1163,7 @@ symversion=0.1
 T 78450 49700 5 10 1 1 90 0 1
 value=1u
 T 78750 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 79250 49650 1 90 0 capacitor-1.sym
 {
@@ -1176,7 +1176,7 @@ symversion=0.1
 T 78950 49700 5 10 1 1 90 0 1
 value=1u
 T 79250 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 79750 49650 1 90 0 capacitor-1.sym
 {
@@ -1189,7 +1189,7 @@ symversion=0.1
 T 79450 49700 5 10 1 1 90 0 1
 value=1u
 T 79750 49650 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 76250 46550 1 90 0 capacitor-1.sym
 {
@@ -1202,7 +1202,7 @@ symversion=0.1
 T 75950 46600 5 10 1 1 90 0 1
 value=10u
 T 76250 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 76050 47450 77550 47450 4
 N 76050 46550 77550 46550 4
@@ -1218,7 +1218,7 @@ symversion=0.1
 T 76450 46600 5 10 1 1 90 0 1
 value=10u
 T 76750 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 77250 46550 1 90 0 capacitor-1.sym
 {
@@ -1231,7 +1231,7 @@ symversion=0.1
 T 76950 46600 5 10 1 1 90 0 1
 value=10u
 T 77250 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 77750 46550 1 90 0 capacitor-1.sym
 {
@@ -1244,7 +1244,7 @@ symversion=0.1
 T 77450 46600 5 10 1 1 90 0 1
 value=1u
 T 77750 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 76600 47450 1 0 0 1.2V-plus-1.sym
 C 78700 47450 1 0 0 3.3V-plus-1.sym
@@ -1259,7 +1259,7 @@ symversion=0.1
 T 78050 46600 5 10 1 1 90 0 1
 value=10u
 T 78350 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 78800 46250 1 0 0 gnd-1.sym
 C 78850 46550 1 90 0 capacitor-1.sym
@@ -1273,7 +1273,7 @@ symversion=0.1
 T 78550 46600 5 10 1 1 90 0 1
 value=10u
 T 78850 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 79350 46550 1 90 0 capacitor-1.sym
 {
@@ -1286,7 +1286,7 @@ symversion=0.1
 T 79050 46600 5 10 1 1 90 0 1
 value=10u
 T 79350 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 79850 46550 1 90 0 capacitor-1.sym
 {
@@ -1299,7 +1299,7 @@ symversion=0.1
 T 79550 46600 5 10 1 1 90 0 1
 value=1u
 T 79850 46550 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 78150 46550 79650 46550 4
 N 78150 47450 79650 47450 4
@@ -1317,7 +1317,7 @@ symversion=0.1
 T 75950 48100 5 10 1 1 90 0 1
 value=10u
 T 76250 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 N 76050 48950 79550 48950 4
 N 76050 48050 79550 48050 4
@@ -1333,7 +1333,7 @@ symversion=0.1
 T 76450 48100 5 10 1 1 90 0 1
 value=10u
 T 76750 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 77250 48050 1 90 0 capacitor-1.sym
 {
@@ -1346,7 +1346,7 @@ symversion=0.1
 T 76950 48100 5 10 1 1 90 0 1
 value=10u
 T 77250 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 77750 48050 1 90 0 capacitor-1.sym
 {
@@ -1359,7 +1359,7 @@ symversion=0.1
 T 77450 48100 5 10 1 1 90 0 1
 value=1u
 T 77750 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 78250 48050 1 90 0 capacitor-1.sym
 {
@@ -1372,7 +1372,7 @@ symversion=0.1
 T 77950 48100 5 10 1 1 90 0 1
 value=1u
 T 78250 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 78750 48050 1 90 0 capacitor-1.sym
 {
@@ -1385,7 +1385,7 @@ symversion=0.1
 T 78450 48100 5 10 1 1 90 0 1
 value=1u
 T 78750 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 79250 48050 1 90 0 capacitor-1.sym
 {
@@ -1398,7 +1398,7 @@ symversion=0.1
 T 78950 48100 5 10 1 1 90 0 1
 value=1u
 T 79250 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 79750 48050 1 90 0 capacitor-1.sym
 {
@@ -1411,7 +1411,7 @@ symversion=0.1
 T 79450 48100 5 10 1 1 90 0 1
 value=1u
 T 79750 48050 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 T 77250 45850 9 10 1 0 0 0 1
 FPGA bypassing
@@ -1424,7 +1424,7 @@ refdes=C13
 T 48300 32400 5 10 0 0 270 0 1
 symversion=0.1
 T 47400 32600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 47400 32600 1 0 0 5V-plus-1.sym
 C 47500 31400 1 0 0 gnd-1.sym
@@ -1437,7 +1437,7 @@ refdes=C14
 T 48850 32400 5 10 0 0 270 0 1
 symversion=0.1
 T 47950 32600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 48050 31400 1 0 0 gnd-1.sym
 C 47950 32600 1 0 0 3.3V-plus-1.sym
@@ -1450,7 +1450,7 @@ refdes=C15
 T 49350 32400 5 10 0 0 270 0 1
 symversion=0.1
 T 48450 32600 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 48550 31400 1 0 0 gnd-1.sym
 C 48450 32600 1 0 0 3.3V-plus-1.sym
@@ -1463,7 +1463,7 @@ refdes=C13
 T 62300 30650 5 10 0 0 270 0 1
 symversion=0.1
 T 61400 30850 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 61400 30850 1 0 0 5V-plus-1.sym
 C 61500 29650 1 0 0 gnd-1.sym
@@ -1476,7 +1476,7 @@ refdes=C14
 T 62850 30650 5 10 0 0 270 0 1
 symversion=0.1
 T 61950 30850 5 10 1 1 0 0 1
-footprint=0805
+footprint=0603
 }
 C 62050 29650 1 0 0 gnd-1.sym
 C 61950 30850 1 0 0 3.3V-plus-1.sym
