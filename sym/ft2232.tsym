@@ -25,7 +25,7 @@ version	20060113 1
 name	FT2232D
 device	FT2232D
 refdes	U?
-footprint       qfp48
+footprint       LQFP48_12
 description	Dual USB to serial UART/FIFO
 documentation	http://www.xilinx.com/
 author	Ben Gamari <bgamari@gmail.com>
