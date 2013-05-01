@@ -25,7 +25,7 @@ version	20060113 1
 name	XC6SLX9					
 device	XC6SLX9					
 refdes	U?					
-footprint						
+footprint	LQFP144_20					
 description	Spartan 6 FPGA					
 documentation	http://www.xilinx.com/					
 author	Mark Haun <haunma(AT)keteu.org>					
