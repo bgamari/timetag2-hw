@@ -6,6 +6,8 @@ T 46650 48100 5 10 1 1 0 6 1
 refdes=U1
 T 47250 47925 5 10 0 0 0 0 1
 device=LHM7220
+T 44850 46950 5 10 0 0 0 0 1
+footprint=SOT23-6
 }
 C 42900 47350 1 0 0 BNC-1.sym
 {
@@ -87,6 +89,8 @@ T 45200 45900 5 10 1 1 90 0 1
 refdes=C1
 T 44300 45550 5 10 0 0 90 0 1
 symversion=0.1
+T 45200 45350 5 10 1 1 0 0 1
+footprint=0805
 }
 C 44900 46650 1 180 0 gnd-1.sym
 N 44550 46250 45000 46250 4
@@ -106,18 +110,22 @@ C 48200 44900 1 90 0 capacitor-1.sym
 T 47500 45100 5 10 0 0 90 0 1
 device=CAPACITOR
 T 48200 45450 5 10 1 1 90 0 1
-refdes=C1
+refdes=C2
 T 47300 45100 5 10 0 0 90 0 1
 symversion=0.1
+T 48200 44900 5 10 1 1 0 0 1
+footprint=0805
 }
 C 48850 44900 1 90 0 capacitor-1.sym
 {
 T 48150 45100 5 10 0 0 90 0 1
 device=CAPACITOR
 T 48850 45450 5 10 1 1 90 0 1
-refdes=C1
+refdes=C3
 T 47950 45100 5 10 0 0 90 0 1
 symversion=0.1
+T 48850 44900 5 10 1 1 0 0 1
+footprint=0805
 }
 C 47900 44600 1 0 0 gnd-1.sym
 C 48550 44600 1 0 0 gnd-1.sym

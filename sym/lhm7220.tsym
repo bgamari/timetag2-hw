@@ -25,7 +25,7 @@ version	20060113 1
 name	LHM7220
 device	LHM7220
 refdes	U?
-footprint       sot6
+footprint       SOT23-6
 description	High-speed comparator with LVDS output
 documentation	http://www.ti.com/
 author	Ben Gamari <bgamari@gmail.com>
