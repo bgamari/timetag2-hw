@@ -15,6 +15,8 @@ T 43250 48000 5 10 0 0 0 0 1
 device=BNC
 T 42900 48150 5 10 1 1 0 0 1
 refdes=CONN1
+T 42900 47350 5 10 0 0 0 0 1
+footprint=sma_board_edge
 }
 N 43400 47850 44950 47850 4
 C 42900 47050 1 0 0 gnd-1.sym
