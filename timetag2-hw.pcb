@@ -868,6 +868,11 @@ Via[1185.00mil 35.00mil 60.00mil 20.00mil 0.0000 35.00mil "" "thermal(3X)"]
 Via[1525.00mil 535.00mil 60.00mil 20.00mil 0.0000 35.00mil "" "thermal(3X)"]
 Via[1415.00mil 580.00mil 24.02mil 12.00mil 0.0000 14.00mil "" ""]
 Via[1365.00mil 630.00mil 24.02mil 12.00mil 0.0000 14.00mil "" ""]
+Via[1450.00mil 575.00mil 24.02mil 12.00mil 0.0000 14.00mil "" "thermal(3X)"]
+Via[1420.00mil 615.00mil 24.02mil 12.00mil 0.0000 14.00mil "" "thermal(3X)"]
+Via[1355.00mil 600.00mil 24.02mil 12.00mil 0.0000 14.00mil "" "thermal(3X)"]
+Via[1335.00mil 630.00mil 24.02mil 12.00mil 0.0000 14.00mil "" "thermal(3X)"]
+Via[1340.00mil 660.00mil 24.02mil 12.00mil 0.0000 14.00mil "" "thermal(3X)"]
 
 Element["" "0805" "CONNA" "unknown" 68.8950mm 1000.00mil -77.99mil -114.21mil 0 100 ""]
 (
@@ -2504,7 +2509,6 @@ Layer(2 "solder")
 	Line[1505.00mil 242.40mil 1505.00mil 280.00mil 25.00mil 20.00mil "clearline"]
 	Line[1505.00mil 280.00mil 1530.00mil 305.00mil 25.00mil 20.00mil "clearline"]
 	Line[1665.00mil 255.00mil 1665.00mil 170.00mil 25.00mil 20.00mil "clearline"]
-	Line[1415.00mil 580.00mil 1365.00mil 630.00mil 14.00mil 12.00mil "clearline"]
 )
 Layer(3 "outline")
 (
@@ -2525,6 +2529,7 @@ Layer(5 "power")
 	Line[1800.00mil 25.00mil 1800.00mil 1810.00mil 25.00mil 20.00mil "clearline"]
 	Line[1665.00mil 255.00mil 1800.00mil 255.00mil 25.00mil 20.00mil "clearline"]
 	Line[1665.00mil 485.00mil 1595.00mil 485.00mil 25.00mil 20.00mil "clearline"]
+	Line[1365.00mil 630.00mil 1415.00mil 580.00mil 14.00mil 12.00mil "clearline"]
 	Polygon("clearpoly")
 	(
 		[50.0000mm 50.0000mm] [50.0000mm 0.0000] [0.0000 0.0000] [0.0000 50.0000mm] 
