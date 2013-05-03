@@ -24,5 +24,16 @@ pinseq=2
 }
 T 100 1100 8 10 0 1 0 0 1
 source=input.sch
-T 100 250 9 10 1 0 0 0 1
+T 50 200 9 10 1 0 0 0 1
 Input
+P 350 800 350 550 1 0 0
+{
+T 350 800 5 10 0 0 180 0 1
+pintype=unknown
+T 155 500 5 10 1 1 180 6 1
+pinlabel=VTT
+T 300 645 5 10 1 1 90 0 1
+pinnumber=0
+T 350 800 5 10 0 0 180 0 1
+pinseq=0
+}

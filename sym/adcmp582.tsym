@@ -6,10 +6,10 @@
 # sort_labels will sort the pins by it's labels
 # useful for address ports, busses, ...
 wordswap	yes
-rotate_labels	no
+rotate_labels	yes
 sort_labels	no
 generate_pinseq	yes
-sym_width	1400
+sym_width	2100
 pinwidthvertical	250
 pinwidthhorizontal	250
 
@@ -21,7 +21,7 @@ version	20060113 1
 name	ADCMP582
 device	ADCMP582
 refdes	U?
-footprint       LFCSP16
+footprint	LFCSP-16
 description	High-speed comparator with ECL output
 documentation	http://www.analog.com/
 author	Ben Gamari <bgamari@gmail.com>
@@ -58,7 +58,7 @@ use-license
 5		pwr	line	t		VCCI
 6		in	line	b		\_LE\_
 7		in	line	b		LE
-8		in	line	t		VTT
+8		in	line	b		VTT
 9		in	line	t		VCCO
 10		in	line	r		\_Q\_
 11		in	line	r		Q
