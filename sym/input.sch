@@ -43,7 +43,7 @@ refdes=R1
 T 41550 45300 5 10 1 1 90 0 1
 value=33
 T 41700 45050 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 C 41850 43800 1 90 0 resistor-1.sym
 {
@@ -54,7 +54,7 @@ refdes=R2
 T 41550 44300 5 10 1 1 90 0 1
 value=510
 T 41700 44200 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 N 41750 44750 42850 44750 4
 {
@@ -71,7 +71,7 @@ refdes=C1
 T 41500 45000 5 10 0 0 90 0 1
 symversion=0.1
 T 42400 44800 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 C 42100 46100 1 180 0 gnd-1.sym
 N 41750 45700 42200 45700 4
@@ -95,7 +95,7 @@ refdes=C4
 T 50300 43100 5 10 0 0 90 0 1
 symversion=0.1
 T 51200 42900 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 C 51850 42900 1 90 0 capacitor-1.sym
 {
@@ -106,7 +106,7 @@ refdes=C5
 T 50950 43100 5 10 0 0 90 0 1
 symversion=0.1
 T 51850 42900 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 C 50900 42600 1 0 0 gnd-1.sym
 C 51550 42600 1 0 0 gnd-1.sym
@@ -154,7 +154,7 @@ refdes=R3
 T 46450 44250 5 10 1 1 90 0 1
 value=750
 T 46600 44000 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 N 46650 44650 46650 45550 4
 T 42550 49200 9 10 1 0 0 0 4
@@ -174,7 +174,7 @@ refdes=C3
 T 49600 43100 5 10 0 0 90 0 1
 symversion=0.1
 T 50500 42900 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 C 50200 42600 1 0 0 gnd-1.sym
 N 49650 43800 49650 44400 4
@@ -191,7 +191,7 @@ refdes=C2
 T 48950 43100 5 10 0 0 90 0 1
 symversion=0.1
 T 49850 42900 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 C 49550 42600 1 0 0 gnd-1.sym
 N 46900 47650 46900 47400 4
@@ -204,7 +204,7 @@ refdes=R5
 T 51400 46450 5 10 1 1 90 0 1
 value=50
 T 51550 46200 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 C 51150 45700 1 90 0 resistor-1.sym
 {
@@ -215,7 +215,7 @@ refdes=R4
 T 50850 46200 5 10 1 1 90 0 1
 value=50
 T 51000 45950 5 10 0 1 0 0 1
-footprint=0603
+footprint=0805
 }
 T 50600 47250 9 10 1 0 0 0 2
 termination network
