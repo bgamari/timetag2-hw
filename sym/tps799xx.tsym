@@ -54,5 +54,5 @@ use-license
 1		pwr	line	l		IN
 2		pwr	line	b		GND
 3		in	line	l		EN
-4		pwr	line	l		NR
+4		pwr	line	r		NR
 5		pwr	line	r		OUT
