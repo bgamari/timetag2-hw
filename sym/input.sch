@@ -230,3 +230,5 @@ N 51600 45950 51600 45600 4
 T 51450 45400 5 10 1 1 0 0 1
 netname=VTT
 }
+T 50000 40700 9 10 1 0 0 0 1
+Threshold discriminator
